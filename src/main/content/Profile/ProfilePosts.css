@@ -1,0 +1,17 @@
+
+.Profile{
+    padding: 20px;
+
+}
+h1{
+    padding-bottom: 20px;
+}
+.add_post{
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.add_post:hover{
+    opacity: .6;
+}

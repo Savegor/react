@@ -1,0 +1,23 @@
+
+.posts{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.posts img{
+    border-radius: 100%;
+    max-width: 80px;
+}
+
+.infouser{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+.message{
+    background-color: cornflowerblue;
+}

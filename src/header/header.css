@@ -1,0 +1,22 @@
+
+.header{
+    height: 200px;
+    width: 100%;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    padding: 30px;
+    color: white;
+}
+
+.auth{
+    margin-right: 40px;
+}
+
+.authNavLink{
+    text-decoration: none;
+    color: white;
+}
